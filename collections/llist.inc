@@ -1,3 +1,4 @@
+ /* simple linked list, implemented in include file, if compiler inlines the code this is for max performance */
    define struct 1 _llist, /* the list */
           2 head ptr,
           2 current ptr,
